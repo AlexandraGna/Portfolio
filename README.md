@@ -11,11 +11,11 @@ Contributors: Diez Perez Maria, Gianluca Vico.
 The goal of this task is to produce a neural network model that is best suited for training a given dataset. This dataset consists of a 1000-by-1 vector of 8-bit unsigned integers. The values of the vector are shown below.
 
 <!--<p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure1.png" alt="zigzag" width="75%" height="75%" />  
 </p>-->
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/pic1.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/pic1.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
 
@@ -24,23 +24,23 @@ Furthermore, we trained our model to predict a data point one step ahead for a f
 Prediction of the next 200 points:
 
 <!--<p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure2.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure2.png" alt="zigzag" width="75%" height="75%" />  
 </p>-->
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/pic2.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/pic2.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
 
 Evaluate the model on the test data:
 
 <!--<p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure3.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure3.png" alt="zigzag" width="75%" height="75%" />  
 </p>-->
 
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/pic3.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/pic3.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
 
@@ -50,11 +50,11 @@ measurements. In addition, to find a strategy to determine which features are th
 them. This dataset consists of a 70128 by 4 by 5 vector that contains the information of the time, the location and the meteorological features respectively. The temperatures of the four locations are shown below.
 
 <!--<p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
 </p>-->
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/pic4.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/pic4.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 In the [report](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
@@ -63,13 +63,13 @@ In the [report](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_
 Temperature prediction of the next week:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure5.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure5.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
 Experiments between different features:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="100%" height="75%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure6.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
 * [Task 3](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_3/DL_assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
@@ -80,7 +80,7 @@ almost the end of the graph, epoch 8, when suddenly appears a significant increm
 in testing Intra classification are 99% and the confusion matrix shows a good performance in the classification.
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure7.png" alt="zigzag" width="100%" height="120%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure7.png" alt="zigzag" width="100%" height="120%" />  
 </p>
 
 Analyzing the Cross loss plot, the right image above, we can see an unstable loss that is getting higher in the latest epochs. The accuracy with this classifier is worse than with Intra, having a 47% in the first and second set and a 25% in the third. The confusion matrix shows an unsatisfactory performance.
@@ -104,24 +104,24 @@ Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robot
 <!-- 
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
  
  * [Task 3](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment3){:target="_blank"}: Apply Evolutionary Algorithms on Benchmark Functions.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf){:target="_blank"}
  
- <p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="100%" /> 
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="100%" /> 
+ <p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/Figure_1.png" alt="zigzag" width="49%" height="100%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/Figure_2.png" alt="zigzag" width="49%" height="100%" /> 
 </p>
 
 * [Task 4](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment4){:target="_blank"}: Apply Evolutionary Algorithm to make the Robot collect as much dust as possible in different Environments.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf){:target="_blank"}
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
 * [Task 5](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment5){:target="_blank"}: Mobile Robot Localization with Kalman Filters.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment5/20%20ARS%20-%20Assignment%20Localization.pdf){:target="_blank"}
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
 
 # [Computer Vision](https://github.com/AlexandraGna/Computer_Vision){:target="_blank"}
@@ -135,21 +135,21 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure10.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure8.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure11.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure9.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 * [Task 2](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb){:target="_blank"}:
@@ -166,11 +166,11 @@ Find the Project Report [here.](https://github.com/AlexandraGna/Reasoning_with_N
 
 <p align="center">
 
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001445.png" alt="zigzag" width="80%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/Screenshot%202022-04-13%20001445.png" alt="zigzag" width="80%" height="80%" /> 
  
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001527.png" alt="zigzag" width="77%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/Screenshot%202022-04-13%20001527.png" alt="zigzag" width="77%" height="80%" /> 
  
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001623.png" alt="zigzag" width="100%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/Screenshot%202022-04-13%20001623.png" alt="zigzag" width="100%" height="80%" /> 
  
  </p>
 
@@ -196,17 +196,17 @@ Find the Project Report [here.](https://github.com/AlexandraGna/Tactical_Voting_
 
 <p align="center">
 
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/TVA_Figure_1.png" alt="zigzag" width="100%" height="100%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/TVA_Figure_1.png" alt="zigzag" width="100%" height="100%" /> 
 </p>
  
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/TVA_Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/TVA_Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
  
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/TVA_Figure_3.png" alt="zigzag" width="49%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/TVA_Figure_3.png" alt="zigzag" width="49%" height="80%" /> 
  
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/TVA_Figure_4.png" alt="zigzag" width="49%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/TVA_Figure_4.png" alt="zigzag" width="49%" height="80%" /> 
  
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/TVA_Figure_5.png" alt="zigzag" width="49%" height="80%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/TVA_Figure_5.png" alt="zigzag" width="49%" height="80%" />  
  </p>
 
 
