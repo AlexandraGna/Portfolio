@@ -3,7 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 sass:
   sass_dir: assets/css
   style: compressed
-url: 'https://alexandradi.github.io/'
+url: 'https://alexandragna.github.io/'
 baseurl: 'Portfolio/'
 #logo: https://github.com/AlexandraGna/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
 logo: https://github.com/AlexandraGna/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker2.png?raw=true
