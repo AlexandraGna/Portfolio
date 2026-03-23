@@ -5,7 +5,7 @@ Data Science and Web Development portfolio -->
 # [Evolutionary Neural Architecture Search for Autonomous Agents](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents){:target="_blank"}
 
 Research Thesis in Volkswagen.
-Contributors: Nihal Acharya Adde.
+Contributor: Nihal Acharya Adde.
 
 Evolutionary Neural Architecture Search (ENAS) is an automated optimization technique that can outperform human network designs while satisfying resource and performance constraints. These automated network designs have gained popularity due to the increasing demand for reliable and efficient neural network architectures in autonomous driving. This thesis introduces novel strategies to improve upon state-of-the-art ENAS optimization methods for deep reinforcement learning (DRL) agents in autonomous driving scenarios.
 
@@ -98,7 +98,7 @@ In the [report](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_
 # [Autonomous Robotic Systems](https://github.com/AlexandraGna/Autonomous_Robotic_Systems){:target="_blank"}
 
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
-Contributors: Gianluca Vico.
+Contributor: Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment1){:target="_blank"}: Test a Swarm Intelligence algorithm on Benchmark Functions.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment1/02d%20ARS%20-%20Assignment%20Swarm%20Intelligence.pdf){:target="_blank"}
@@ -134,7 +134,7 @@ Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robot
 # [Computer Vision](https://github.com/AlexandraGna/Computer_Vision){:target="_blank"}
 
 Implementation of 2 Assignments for the course Computer Vision.
-Contributors: Gianluca Vico.
+Contributor: Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_1/Computer_Vision_First_Assignment.ipynb){:target="_blank"}:
 Image Stiching.
@@ -185,7 +185,7 @@ Find the Project Report [here.](https://github.com/AlexandraGna/Reasoning_with_N
 # [Machine Learning Projects](https://github.com/AlexandraGna/Machine_Learning){:target="_blank"}
 
 Implementation of AutoEncoders with Backpropagation and Quantum Machine Learning assignments. 
-Contributors: Gianluca Vico.
+Contributor: Gianluca Vico.
 
 * [Task 1: AutoEncoders](https://github.com/AlexandraGna/Machine_Learning/blob/main/Autoencoders/assignment1.ipynb){:target="_blank"}
 * [Task 2: Convolutional AutoEncoders](https://github.com/AlexandraGna/Machine_Learning/blob/main/ConvolutionalAutoEncoders/Assignment2.ipynb){:target="_blank"}
@@ -220,7 +220,7 @@ Find the Project Report [here.](https://github.com/AlexandraGna/Tactical_Voting_
 # [ALMA](https://github.com/AlexandraGna/ALMA){:target="_blank"}
 
 A web application that provides online services for obtaining Golden Visa from Greece.
-Contributors: Maria Koutouzi.
+Contributor: Maria Koutouzi.
 
 <!-- 
 <p align="center"> <img src="https://github.com/AlexandraGna/ALMA/blob/95f941d53a0bee5546abf0e70cf5c8b3bfdb4fff/src/main/resources/static/alma-short.gif" alt="alma_webinterface" width="80%" height="80%" /></p> -->
