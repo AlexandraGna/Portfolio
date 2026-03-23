@@ -2,7 +2,7 @@
 Data Science and Web Development portfolio -->
 
 
-# [Evolutionary NAS for Reinforcement Learning](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents){:target="_blank"}
+# [Evolutionary Neural Architecture Search for Autonomous Agents](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents){:target="_blank"}
 
 Research Thesis in Volkswagen.
 Contributors: Nihal Acharya Adde.
