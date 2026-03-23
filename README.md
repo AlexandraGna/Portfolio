@@ -10,6 +10,7 @@ Evolutionary Neural Architecture Search (ENAS) is an automated optimization tech
 
 <p align="center">
 1.  <b>Optimized Fitness Functions </b> – Refined weight assignments balancing reward performance with computational efficiency (FLOPs).
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.2.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
  <p align="center">
