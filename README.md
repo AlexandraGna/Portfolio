@@ -9,17 +9,19 @@ Research thesis completed at Volkswagen. Contributor: Nihal Acharya Adde.
 Evolutionary Neural Architecture Search (ENAS) is an automated optimization technique that can outperform human network designs while satisfying resource and performance constraints. These automated network designs have gained popularity due to the increasing demand for reliable and efficient neural network architectures in autonomous driving. This thesis introduces novel strategies to improve upon state-of-the-art ENAS optimization methods for deep reinforcement learning (DRL) agents in autonomous driving scenarios. Three key innovations are the following:
 
 * <b>Optimized Fitness Functions </b> – Refined weight assignments balancing reward performance with computational efficiency (FLOPs).
-  <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.2.png" alt="zigzag" width="75%" height="75%" />  
+  
+<p align="center">
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.2.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
  * <b>Transfer Learning Strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving higher rewards.
 
   <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.7.png" alt="zigzag" width="75%" height="75%" />  
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.7.png" alt="zigzag" width="100%" height="75%" />  
 </p>
+
   <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.8.png" alt="zigzag" width="75%" height="75%" />  
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.8.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
 * <b>Credit Assignment Method </b> – Dynamically adjusts mutation probabilities based on architecture evaluation results from previous generations to enhance high-performing designs.
