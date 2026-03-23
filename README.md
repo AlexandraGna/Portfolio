@@ -17,11 +17,11 @@ Evolutionary Neural Architecture Search (ENAS) is an automated optimization tech
  * <b>Transfer Learning Strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving higher rewards.
 
   <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.8.png" alt="zigzag" width="100%" height="75%" />  
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
   <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.7.png" alt="zigzag" width="100%" height="75%" />  
+<img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
 * <b>Credit Assignment Method </b> – Dynamically adjusts mutation probabilities based on architecture evaluation results from previous generations to enhance high-performing designs.
