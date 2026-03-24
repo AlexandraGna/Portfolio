@@ -6,13 +6,7 @@ Data Science and Web Development portfolio -->
 
 Research thesis completed at Volkswagen. Contributor: Nihal Acharya Adde.
 
-Evolutionary Neural Architecture Search (ENAS) is an automated optimization technique that can outperform human network designs while satisfying resource and performance constraints. These automated network designs have gained popularity due to the increasing demand for reliable and efficient neural network architectures in autonomous driving. This thesis introduces novel strategies to improve upon state-of-the-art ENAS optimization methods for deep reinforcement learning (DRL) agents in autonomous driving scenarios. Three key innovations are the following:
-
-* <b>Optimized Fitness Functions </b> – Refined weight assignments balancing reward performance with computational efficiency (FLOPs).
-  
-<!-- <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_5.2.png" alt="zigzag" width="80%" height="75%" />  
-</p> -->
+Evolutionary Neural Architecture Search (ENAS) is an automated optimization technique that can outperform human network designs while satisfying resource and performance constraints. These automated network designs have gained popularity due to the increasing demand for reliable and efficient neural network architectures in autonomous driving. This thesis introduces novel strategies to improve upon state-of-the-art ENAS optimization methods for deep reinforcement learning (DRL) agents in autonomous driving scenarios. One key innovation is the following:
 
  * <b>Transfer Learning Strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving better performance and computational efficiency.
 
@@ -22,14 +16,14 @@ Evolutionary Neural Architecture Search (ENAS) is an automated optimization tech
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
-In addition, the figure below shows that the Transfer Learning method (ADenas_EFPI_TL) consistently outperforms the baseline (ADenas_EFPI) across all generations, achieving lower computational costs (FLOPs):
+The figure below illustrates that the Transfer Learning method (ADenas_EFPI_TL) reduces computational overhead (FLOPs) more effectively than the baseline (ADenas_EFPI) across generations, enabling efficient neural architecture deployment in autonomous driving systems:
 
   <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
-* <b>Credit Assignment Method </b> – Dynamically adjusts mutation probabilities based on architecture evaluation results from previous generations to enhance high-performing designs.
-  
+In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/Volkswagen_Thesis_Report.pdf){:target="_blank"}, the implementation details are explained and the results are presented.
+
 
 # [Deep Learning](https://github.com/AlexandraGna/Deep_Learning){:target="_blank"}
 
