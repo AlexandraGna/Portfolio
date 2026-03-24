@@ -66,10 +66,8 @@ Research internship at Robert Bosch. I developed automated algorithms for predic
 <ol>
   <li><b>Signal Processing and Noise Reduction</b></li>
   
-Implemented and compared multiple filtering techniques to clean impedance signals from sensor noise.<br>
-
- <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_14_low_res.png" alt="zigzag" width="100%" height="100%" />  
+Implemented and compared multiple filtering techniques to clean impedance signals from sensor noise.
+<p align="center">
 </p>
 
  <p align="center">
