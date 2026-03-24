@@ -95,8 +95,35 @@ Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering m
 
   <p align="center"></p>
   <li><b>Transition Model</b></li>
+<p align="center"></p>
+  Built an optimization-based electrical model representing the PCB as a parallel RC circuit:
+  <p align="center"></p>
+
+     <p align="center">
+<img src="https://AlexandraGna.github.io/Portfolio/fig_23.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+
+Using the Nelder-Mead optimization algorithm, I decomposed impedance measurements into:
 
   <p align="center"></p>
+
+<ul> <b>Resistance: </b> Decreases with moisture presence (forms conductive path)</ul>
+<ul> <b>Capacitance: </b> Increases with water accumulation (stores charge)</ul>
+
+ <p align="center"></p>
+
+
+   <p align="center">
+<img src="https://AlexandraGna.github.io/Portfolio/fig_28.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+   <p align="center">
+<img src="https://AlexandraGna.github.io/Portfolio/fig_29.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+
+
+Physical Validation: The optimized parameters align with known electrochemical behavior—demonstrating the model's predictive power.
+ <p align="center"></p>
+  
   <li><b>Environmental Factor Analysis</b></li>
 
   <p align="center"></p>
