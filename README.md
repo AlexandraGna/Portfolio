@@ -80,12 +80,13 @@ Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering m
 
   Developed an algorithmic pipeline to automatically identify:
 
-<ul> <b>Dew formation starting points </b> (starting of condensation)</ul>
-<ul> <b>Closed-water film appearance </b> (when surface fully saturates)</ul>
-<ul> <b>Critical temperature spreads </b> (condensation thresholds)</ul>
+<ul> <b>dew formation starting points </b> (starting of condensation),</ul>
+<ul> <b>closed-water film appearance </b> (when surface fully saturates),</ul>
+<ul> <b>critical temperature spreads </b> (condensation thresholds).</ul>
 
  <p align="center"></p>
   Validation: Compared electrical detection against optical camera data, which shows an example of near-perfect correlation:
+  <p align="center"></p>
 
    <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_21.png" alt="zigzag" width="100%" height="100%" />  
