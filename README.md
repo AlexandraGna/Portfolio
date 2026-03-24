@@ -29,7 +29,7 @@ The results indicate that Transfer Learning-based architecture search provides a
 
 For comprehensive technical documentation, implementation details, and extended experimental results, refer to the [complete thesis](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/blob/main/Volkswagen_Thesis_Report.pdf){:target="_blank"}. A summary of key findings has been published in the conference proceedings [here](https://www.esann.org/sites/default/files/proceedings/2025/ES2025-122.pdf){:target="_blank"}.
 
-Note: The implementation code is proprietary to Volkswagen and is not publicly available.
+Note: The implementation code belongs to Volkswagen and is not publicly available.
 
 
 <!-- ------------------------------------------------------
