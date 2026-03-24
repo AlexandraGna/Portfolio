@@ -11,7 +11,6 @@ The design of neural network architectures for autonomous driving applications p
 * <b>Transfer Learning for Architecture Optimization </b>
 Conventional architecture search methodologies train candidate architectures independently, resulting in substantial computational overhead. This thesis proposes a <b>Transfer Learning-based approach</b> that leverages knowledge from previously optimized architectures to accelerate the search process. By initializing new candidate architectures with learned representations from successful predecessors, this methodology reduces training iterations while improving convergence rates and final performance metrics. The approach capitalizes on the hypothesis that knowledge transfer between architecturally similar networks can effectively reduce the total search computational cost while maintaining or improving solution quality.
 
-* <b> Empirical Validation </b>
   
 Figure 1: Reward Performance Across Generations – Comparative analysis demonstrates that the Transfer Learning-enhanced architecture search (ADenas_EFPI_TL) consistently achieves superior reward values relative to the baseline approach (ADenas_EFPI) across all evolutionary generations, indicating sustained performance improvements:
 
