@@ -79,13 +79,14 @@ Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering m
   <li><b>Automated Critical Point Detection</b></li>
 
   Developed an algorithmic pipeline to automatically identify:
+  <p align="center"></p>
 
-<ul> <b>dew formation starting points </b> (starting of condensation),</ul>
-<ul> <b>closed-water film appearance </b> (when surface fully saturates),</ul>
-<ul> <b>critical temperature spreads </b> (condensation thresholds).</ul>
+<ul> <b>Dew formation starting points </b> (starting of condensation)</ul>
+<ul> <b>Closed-water film appearance </b> (when surface fully saturates)</ul>
+<ul> <b>Critical temperature spreads </b> (condensation thresholds)</ul>
 
  <p align="center"></p>
-  Validation: Compared electrical detection against optical camera data, which shows an example of near-perfect correlation:
+  Validation: Compared automated critical points from electrical data against optical camera data, which shows an example of near-perfect correlation:
   <p align="center"></p>
 
    <p align="center">
