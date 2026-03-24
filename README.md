@@ -64,8 +64,22 @@ Research internship at Robert Bosch. I developed automated algorithms for predic
 <b> Key Contributions: </b>
 
 <ol>
-  <li><b>Signal Processing & Noise Reduction</b></li>
-  <li>Επόμενο βήμα...</li>
+  <li><b>Signal Processing and Noise Reduction</b></li>
+  
+Implemented and compared multiple filtering techniques to clean impedance signals degraded by sensor noise:
+ <p align="center">
+<img src="https://AlexandraGna.github.io/Portfolio/fig_14.png" alt="zigzag" width="100%" height="100%" />  
+</p>
+Result: Selected Savitzky-Golay and Band-Pass filtering with FFT are the only filtering methods that do not slide to the right during the lifetime of a closed-water film, as shown in the figure above, yellow circle.
+  
+  <li><b>Automated Critical Point Detection</b></li>
+  
+  <li><b>Transition Model</b></li>
+  
+  <li><b>Environmental Factor Analysis</b></li>
+  
+  <li><b>Machine Learning Comparison</b></li>
+  
 </ol>
 
 
