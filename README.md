@@ -61,6 +61,13 @@ Research internship at Robert Bosch. I developed automated algorithms for predic
    
  *  <b>Challenge: </b> Manually detecting critical condensation points is time-consuming and error-prone. An automated approach is needed to characterize material behavior and predict risk.
 
+<b> Key Contributions: </b>
+
+<ol>
+  <li><b>Signal Processing & Noise Reduction</b></li>
+  <li>Επόμενο βήμα...</li>
+</ol>
+
 
 # [Deep Learning](https://github.com/AlexandraGna/Deep_Learning){:target="_blank"}
 
