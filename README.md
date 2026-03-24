@@ -70,7 +70,7 @@ Implemented and compared multiple filtering techniques to clean impedance signal
 <p align="center"></p>
 
  <p align="center">
-<img src="https://AlexandraGna.github.io/Portfolio/fig_14.png" alt="zigzag" width="100%" height="100%" />  
+<img src="https://AlexandraGna.github.io/Portfolio/fig_14.png" alt="zigzag" width="100%" height="140%" />  
 </p>
 
 Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering methods that do not slide to the right during the lifetime of a closed-water film, as shown in the figure above, yellow circle.
