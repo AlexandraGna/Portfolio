@@ -27,7 +27,7 @@ In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Arc
 
 # [Deep Learning](https://github.com/AlexandraGna/Deep_Learning){:target="_blank"}
 
-Implementation of 3 Assignments for the course Deep Learning.
+Implementation of 3 assignments for the course Deep Learning.
 Contributors: Diez Perez Maria, Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
