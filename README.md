@@ -22,7 +22,7 @@ The figure below illustrates that the Transfer Learning method (ADenas_EFPI_TL) 
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
-In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/Volkswagen_Thesis_Report.pdf){:target="_blank"}, the implementation details are explained and the results are presented.
+In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/blob/main/Volkswagen_Thesis_Report.pdf){:target="_blank"}, the implementation details are explained and the results are presented.
 
 
 # [Deep Learning](https://github.com/AlexandraGna/Deep_Learning){:target="_blank"}
