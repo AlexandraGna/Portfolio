@@ -53,6 +53,15 @@ The figure below illustrates that the Transfer Learning method (ADenas_EFPI_TL) 
 In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/blob/main/Volkswagen_Thesis_Report.pdf){:target="_blank"}, the implementation details are explained and the results are presented. -->
 
 
+# [Electrochemical Migration Risk Evaluation](https://github.com/AlexandraGna/Electrochemical_Migration_Risk_Evaluation){:target="_blank"}
+
+Research internship at Robert Bosch. I developed automated algorithms for predicting condensation behavior on printed circuit boards (PCBs) and evaluating electrochemical migration (ECM) risk.
+
+ * <b>The Problem: </b> PCB failures due to electrochemical migration pose significant reliability risks in automotive and industrial applications. Moisture accumulation under thermal and humidity cycles triggers dendritic growth between conductive traces, potentially causing short circuits and device failure.
+   
+ *  <b>Challenge: </b> Manually detecting critical condensation points is time-consuming and error-prone. An automated approach is needed to characterize material behavior and predict risk.
+
+
 # [Deep Learning](https://github.com/AlexandraGna/Deep_Learning){:target="_blank"}
 
 Implementation of 3 assignments for the course Deep Learning.
