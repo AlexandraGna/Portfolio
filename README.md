@@ -22,6 +22,8 @@ Evolutionary Neural Architecture Search (ENAS) is an automated optimization tech
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
+In addition, the figure below shows that the Transfer Learning method (ADenas_EFPI_TL) consistently outperforms the baseline (ADenas_EFPI) across all generations, achieving lower computational costs (FLOPs):
+
   <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
