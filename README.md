@@ -16,6 +16,8 @@ Evolutionary Neural Architecture Search (ENAS) is an automated optimization tech
 
  * <b>Transfer Learning Strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving better performance and computational efficiency.
 
+   The figure below shows that the Transfer Learning method (ADenas_EFPI_TL) consistently outperforms the baseline (ADenas_EFPI) across all generations, achieving higher rewards:
+
   <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
