@@ -66,13 +66,13 @@ Research internship at Robert Bosch. I developed automated algorithms for predic
 <ol>
   <li><b>Signal Processing and Noise Reduction</b></li>
   
-Implemented and compared multiple filtering techniques to clean impedance signals by sensor noise:
+Implemented and compared multiple filtering techniques to clean impedance signals from sensor noise:</br?
 
  <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_14.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
-Result: Selected Savitzky-Golay and Band-Pass filtering with FFT are the only filtering methods that do not slide to the right during the lifetime of a closed-water film, as shown in the figure above, yellow circle.
+Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering methods that do not slide to the right during the lifetime of a closed-water film, as shown in the figure above, yellow circle.
   
   <li><b>Automated Critical Point Detection</b></li>
   
