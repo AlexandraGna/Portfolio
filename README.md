@@ -141,7 +141,7 @@ In the [report](https://github.com/AlexandraGna/Deep_Learning/blob/main/Project_
 
 # [Autonomous Robotic Systems](https://github.com/AlexandraGna/Autonomous_Robotic_Systems){:target="_blank"}
 
-Implementation of 5 Assignments for the course Autonomous Robotic Systems.
+Implementation of 5 assignments for the course Autonomous Robotic Systems.
 Contributor: Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment1){:target="_blank"}: Test a Swarm Intelligence algorithm on Benchmark Functions.
@@ -177,7 +177,7 @@ Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robot
 
 # [Computer Vision](https://github.com/AlexandraGna/Computer_Vision){:target="_blank"}
 
-Implementation of 2 Assignments for the course Computer Vision.
+Implementation of 2 assignments for the course Computer Vision.
 Contributor: Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_1/Computer_Vision_First_Assignment.ipynb){:target="_blank"}:
