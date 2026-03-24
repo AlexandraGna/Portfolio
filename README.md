@@ -23,7 +23,7 @@ The proposed methodology, as shown in the figure below, demonstrates reduced com
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
-* <b> Implications </b>
+
 
 The results indicate that Transfer Learning-based architecture search provides an efficient approach to neural architecture optimization for reinforcement learning agents in autonomous driving. By reducing computational requirements while improving solution quality, this methodology advances the practical applicability of ENAS in real-world autonomous driving systems.
 
