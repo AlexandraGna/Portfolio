@@ -53,7 +53,7 @@ The figure below illustrates that the Transfer Learning method (ADenas_EFPI_TL) 
 In the [thesis document](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/blob/main/Volkswagen_Thesis_Report.pdf){:target="_blank"}, the implementation details are explained and the results are presented. -->
 
 
-# [Electrochemical Migration Risk Evaluation](https://github.com/AlexandraGna/Electrochemical_Migration_Risk_Evaluation){:target="_blank"}
+# [Electrochemical Migration Risk Evaluation on PCBs](https://github.com/AlexandraGna/Electrochemical_Migration_Risk_Evaluation){:target="_blank"}
 
 Research internship at Robert Bosch. I developed automated algorithms for predicting condensation behavior on printed circuit boards (PCBs) and evaluating electrochemical migration (ECM) risk.
 
@@ -67,23 +67,26 @@ Research internship at Robert Bosch. I developed automated algorithms for predic
   <li><b>Signal Processing and Noise Reduction</b></li>
   
 Implemented and compared multiple filtering techniques to clean impedance signals from sensor noise.
-<p align="center">
-</p>
+<p align="center"></p>
 
  <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_14.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 Result: Savitzky-Golay and Band-Pass filtering with FFT are the only filtering methods that do not slide to the right during the lifetime of a closed-water film, as shown in the figure above, yellow circle.
-  
+
+  <p align="center"></p>
   <li><b>Automated Critical Point Detection</b></li>
-  
+
+  <p align="center"></p>
   <li><b>Transition Model</b></li>
-  
+
+  <p align="center"></p>
   <li><b>Environmental Factor Analysis</b></li>
-  
+
+  <p align="center"></p>
   <li><b>Machine Learning Comparison</b></li>
-  
+  <p align="center"></p>
 </ol>
 
 
