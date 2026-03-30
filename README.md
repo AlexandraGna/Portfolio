@@ -8,10 +8,10 @@ Research thesis completed at Volkswagen. Contributor: Nihal Acharya Adde.
 
 The design of neural network architectures for autonomous driving applications presents a significant challenge in balancing competing objectives: achieving high performance while maintaining computational efficiency within hardware constraints. <b>Evolutionary Neural Architecture Search (ENAS)</b> addresses this challenge through automated exploration of the architecture space using evolutionary algorithms, enabling the discovery of network designs that satisfy multiple performance criteria simultaneously. This approach is particularly valuable in the autonomous driving domain, where real-time inference requirements and embedded hardware limitations necessitate architectures optimized for both accuracy and computational efficiency.
 
-* <b>Transfer Learning for Architecture Optimization: </b>
+* <b>Transfer learning for architecture optimization: </b>
 Conventional architecture search methodologies train candidate architectures independently, resulting in substantial computational overhead. This thesis proposes a <b>transfer learning-based approach</b> that leverages knowledge from previously trained architectures to accelerate the search process. By initializing new candidate architectures with learned representations from successful predecessors, this methodology reduces training effort while improving performance metrics. 
   
-Comparative analysis in the figure below demonstrates that the Transfer Learning-enhanced architecture search (ADenas_EFPI_TL) consistently achieves superior reward values relative to the baseline approach (ADenas_EFPI) across all evolutionary generations, indicating sustained performance improvements.
+Comparative analysis in the figure below demonstrates that the transfer learning-enhanced architecture search (ADenas_EFPI_TL) consistently achieves superior reward values relative to the baseline approach (ADenas_EFPI) across all evolutionary generations, indicating sustained performance improvements.
 
 <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="90%" height="75%" />  
@@ -24,7 +24,7 @@ The proposed methodology, as shown in the figure below, demonstrates reduced com
 </p>
 
 
-The results indicate that Transfer Learning-based architecture search provides an efficient approach to neural architecture optimization for reinforcement learning agents in autonomous driving. By reducing computational requirements while improving solution quality, this methodology advances the practical applicability of ENAS in real-world autonomous driving systems.
+The results indicate that transfer learning-based architecture search provides an efficient approach to neural architecture optimization for reinforcement learning agents in autonomous driving. By reducing computational requirements while improving solution quality, this methodology advances the practical applicability of ENAS in real-world autonomous driving systems.
 
 
 For comprehensive technical documentation, implementation details, and extended experimental results, refer to the [complete thesis](https://github.com/AlexandraGna/Evolutionary_Neural_Architecture_Search_for_Autonomous_Agents/blob/main/Volkswagen_Thesis_Report.pdf){:target="_blank"}. A summary of key findings has been published in the conference proceedings [here](https://www.esann.org/sites/default/files/proceedings/2025/ES2025-122.pdf){:target="_blank"}.
@@ -36,15 +36,15 @@ Note: The implementation code belongs to Volkswagen and is not publicly availabl
   
 Evolutionary Neural Architecture Search (ENAS) is an automated optimization technique that can outperform human network designs while satisfying resource and performance constraints. These automated network designs have gained popularity due to the increasing demand for reliable and efficient neural network architectures in autonomous driving. This thesis introduces novel strategies to improve upon state-of-the-art ENAS optimization methods for deep reinforcement learning (DRL) agents in autonomous driving scenarios. One key innovation is the following:
 
- * <b>Transfer Learning Strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving better performance and computational efficiency.
+ * <b>Transfer learning strategy </b> – Accelerates convergence by transferring learned policies from previous generations and architectures, reducing training effort while achieving better performance and computational efficiency.
 
-   The figure below shows that the Transfer Learning method (ADenas_EFPI_TL) consistently outperforms the baseline (ADenas_EFPI) across all generations, achieving higher rewards:
+   The figure below shows that the transfer learning method (ADenas_EFPI_TL) consistently outperforms the baseline (ADenas_EFPI) across all generations, achieving higher rewards:
 
   <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.8_low_res.png" alt="zigzag" width="90%" height="75%" />  
 </p>
 
-The figure below illustrates that the Transfer Learning method (ADenas_EFPI_TL) reduces computational overhead (FLOPs) more effectively than the baseline (ADenas_EFPI) across generations, enabling efficient neural architecture deployment in autonomous driving systems:
+The figure below illustrates that the transfer learning method (ADenas_EFPI_TL) reduces computational overhead (FLOPs) more effectively than the baseline (ADenas_EFPI) across generations, enabling efficient neural architecture deployment in autonomous driving systems:
 
   <p align="center">
 <img src="https://AlexandraGna.github.io/Portfolio/fig_5.7_low_res.png" alt="zigzag" width="90%" height="75%" />  
